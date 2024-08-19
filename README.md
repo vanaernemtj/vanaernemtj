@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vanaernemtj
+- 👋 Hi, I’m Taylor 
 - 👀 I’m interested in vidoe games.
 - 🌱 I’m currently learning HTML, CSS, and Javascript.
 - 💞️ I’m looking to collaborate on Everything
